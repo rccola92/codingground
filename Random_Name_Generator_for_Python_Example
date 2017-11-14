@@ -1,0 +1,8 @@
+# Random Name Generator
+
+import random 
+
+List_of_Names = ['Jill', 'Billy', 'Bobby', 'Johnny']
+Choice_at_Random = random.choice(List_of_Names)
+
+print(Choice_at_Random)
