@@ -1,0 +1,9 @@
+# Executing an "if" statement
+
+n = 20
+
+if n > 10: 
+    print("Happy")
+
+if n < 30: 
+    print("Sad")
