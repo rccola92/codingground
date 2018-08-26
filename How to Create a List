@@ -1,0 +1,10 @@
+Grocery List = ["Apples", "Oranges", "Watermelons", "Bananas"]
+
+Grocery List = [0]
+  'Apples'
+  
+Grocery List = [3]
+  'Bananas'
+  
+ Grocery List = [-1]
+  'Bananas'
